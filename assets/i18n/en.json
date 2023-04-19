@@ -1,5 +1,23 @@
 {
     "welcome-back": "Welcome back",
     "Project": "Project",
-    "Analytics": "Analytics"
+    "Analytics": "Analytics",
+    "blood-label": "Blood",
+    "Yesterday": "Yesterday",
+    "2-days-ago": "2 days ago",
+    "3-days-ago": "3 days ago",
+    "liters": "Liters",
+    "see-detail": "See detail",
+    "plasma-nature": "Nature Plasma",
+    "plasma-conc": "Concentrated Plasma",
+    "Liquid-Hemoglobin": "Liquid Hemoglobin",
+    "language": "Language",
+    "not_have_account": "Don't have an account?",
+    "sign_up": "Sign up",
+    "sign_in": "Sign in",
+    "user": "User",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "required": "Required"
 }

@@ -1,0 +1,23 @@
+{
+    "welcome-back": "Bienvenido de nuevo",
+    "Project": "Proyecto",
+    "Analytics": "Analítica",
+    "blood-label": "Sangre",
+    "Yesterday": "Ayer",
+    "2-days-ago": "Hace 2 días",
+    "3-days-ago": "Hace 3 días",
+    "liters": "Litros",
+    "see-detail": "Ver detalle",
+    "plasma-nature": "Plasma Natura",
+    "plasma-conc": "Plasma Concentrado",
+    "Liquid-Hemoglobin": "Hemoglobina Líquida",
+    "language":"Idioma",
+    "not_have_account": "¿No tiene cuenta?",
+    "sign_up":"Regístrese",
+    "sign_in":"Iniciar sesión",
+    "user":"Usuario",
+    "password":"Contraseña",
+    "remember_me":"Recuérdame",
+    "forgot_password":"¿Ha olvidado su contraseña?",
+    "required":"Obligatorio"
+}
